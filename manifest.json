@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "gabrieljuliobs.tray",
   "name": "Always Visible Tray",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Gabriel Julio BS",
   "description": "Shows all system tray icons by default and hides the drawer arrow when unused",
   "kinds": [
