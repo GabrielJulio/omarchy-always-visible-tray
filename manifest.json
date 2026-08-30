@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "gabrieljuliobs.tray",
+  "name": "Always Visible Tray",
+  "version": "1.0.0",
+  "author": "Gabriel Julio BS",
+  "description": "Shows all system tray icons by default and hides the drawer arrow when unused",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "Tray.qml"
+  },
+  "barWidget": {
+    "displayName": "Always Visible Tray",
+    "description": "Always show system tray icons",
+    "category": "Status",
+    "allowMultiple": false
+  },
+  "omarchy": {
+    "clonedFrom": "omarchy.tray"
+  }
+}
