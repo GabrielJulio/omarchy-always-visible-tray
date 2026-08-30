@@ -9,7 +9,7 @@ A customized Omarchy system tray that:
 
 ## Install
 
-    omarchy plugin add https://github.com/gabrieljuliobs/omarchy-always-visible-tray.git --enable
+    omarchy plugin add https://github.com/GabrielJulio/omarchy-always-visible-tray.git --enable --yes
 
 ## Based on
 
