@@ -15,7 +15,8 @@
     "displayName": "Always Visible Tray",
     "description": "Always show system tray icons",
     "category": "Status",
-    "allowMultiple": false
+    "allowMultiple": false,
+    "defaultSection": "right"
   },
   "omarchy": {
     "clonedFrom": "omarchy.tray"
